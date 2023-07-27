@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.container{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	flex-wrap:wrap;
+}
+.block{
+	width:100px;
+	height:100px;
+
+}
+.a1{
+	background-color:green;
+}
+.a2{
+	background-color:red;
+}
+.a3{
+	background-color:blue;
+}
